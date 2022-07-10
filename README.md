@@ -7,6 +7,8 @@
 ![Github Repo Download](https://img.shields.io/github/downloads/Onnamission/India-Census-Analysis/total)
 ![Github Repo Star Req](https://img.shields.io/badge/%F0%9F%8C%9F-If%20Useful-BC4E99)
 
+![Census Intro](Images/Census-of-India.jpg)
+
 Analysis of India census using only SQL.
 
 Yes, Yes, I know previously I said to use R for data cleaning or analysis but you see SQL IS SQL. So, what's the problem to learn this also.
