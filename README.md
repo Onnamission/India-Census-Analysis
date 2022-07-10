@@ -58,6 +58,8 @@ Steps taken for data analysis through SQL:
  - Getting top 5 growth%.
  - Top 5 Population vs Area.
 
+<b>*Note:</b> The above questions are all made up questions by me. 
+
 Median was given more preference as compared to average because median can give you more accurate information.
 
 **Example:** Suppose you are planning to buy a house and wants to get an idea of how much budget should I plan. So, lets assume there are 10 house in which 2 houses cost $800,000 and other 9 houses cost $200,000. If you take average of this to get a budget idea, you get $320,000. Do you really think you should have this budget? Now take median of this, you get $200,000. The exact budget you need to have. So, you see how median can be better than average.
