@@ -1,6 +1,12 @@
 
 # India Census Analysis
 
+![Github Repo Release](https://img.shields.io/github/release-date/Onnamission/India-Census-Analysis)
+![Github Repo Size](https://img.shields.io/github/repo-size/Onnamission/India-Census-Analysis)
+![Github Repo License](https://img.shields.io/github/license/Onnamission/India-Census-Analysis)
+![Github Repo Download](https://img.shields.io/github/downloads/Onnamission/India-Census-Analysis/total)
+![Github Repo Star Req](https://img.shields.io/badge/%F0%9F%8C%9F-If%20Useful-BC4E99)
+
 Analysis of India census using only SQL.
 
 Yes, Yes, I know previously I said to use R for data cleaning or analysis but you see SQL IS SQL. So, what's the problem to learn this also.
@@ -8,6 +14,12 @@ Yes, Yes, I know previously I said to use R for data cleaning or analysis but yo
 The analysis shown though SQL queries and any analysis that can be shown through SQL queries can also be fetched from visualization tools like Tableau and PowerBI even with more ease. But as said, SQL IS SQL.
 
 But SQL seems to be well suited to get data insights which helps to make decision about what steps should we take to do data cleaning and there is no doubt that it sometimes get a bit complex when it comes to data cleaning or working with subqueries.
+
+## Download
+
+```bash
+  git clone https://github.com/Onnamission/India-Census-Analysis.git
+```
 
 ## About Dataset
 
